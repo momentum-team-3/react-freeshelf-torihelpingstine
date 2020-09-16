@@ -1,0 +1,13 @@
+.App {
+  margin: 2rem auto;
+  max-width: 60rem;
+  padding: 1rem;
+}
+
+.Book {
+  margin: 2rem 0;
+}
+
+h1 {
+  font-size: xx-large;
+}
